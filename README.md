@@ -48,6 +48,7 @@ git remote add origin git@github.com:rheasan/chip8.git
 ```
 
 ### Q14. Fork a repository on GitHub and clone it to your local machine.
+![Q14_pull](./screenshots/q14_pull.png)
 ### Q15. Create a new branch on your fork, make changes, and open a pull request to the original repository.
 ![Q14](./screenshots/q14.png)
 ![Q15](./screenshots/q15_pull.png)
